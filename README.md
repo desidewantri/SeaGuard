@@ -10,3 +10,9 @@ Anggota 3: Hayunitya Edadwi Pratita – 23/518670/TK/57134
 Berikut adalah class diagram yang menggambarkan rancangan sistem aplikasi pelaporan sampah. Diagram ini menunjukkan relasi antar class, beserta atribut dan method yang digunakan.
  
 <img width="533" height="451" alt="class diagramb" src="https://github.com/user-attachments/assets/b33a2442-08b3-491b-a769-369d4b6d8643" />
+<br>
+<br>
+
+Berikut adalah ERD yang menggambarkan rancangan sistem aplikasi pelaporan sampah. 
+
+<img width="811" height="571" alt="HW MODUL 4 drawio" src="https://github.com/user-attachments/assets/8d1adaf8-d79b-4adb-87bd-5a08f5148413" />
