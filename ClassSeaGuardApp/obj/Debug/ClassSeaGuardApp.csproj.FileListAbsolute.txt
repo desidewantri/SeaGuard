@@ -1,9 +1,0 @@
-C:\Users\USER\SeaGuard\ClassSeaGuardApp\bin\Debug\ClassSeaGuardApp.exe.config
-C:\Users\USER\SeaGuard\ClassSeaGuardApp\bin\Debug\ClassSeaGuardApp.exe
-C:\Users\USER\SeaGuard\ClassSeaGuardApp\bin\Debug\ClassSeaGuardApp.pdb
-C:\Users\USER\SeaGuard\ClassSeaGuardApp\obj\Debug\ClassSeaGuardApp.csproj.AssemblyReference.cache
-C:\Users\USER\SeaGuard\ClassSeaGuardApp\obj\Debug\ClassSeaGuardApp.Properties.Resources.resources
-C:\Users\USER\SeaGuard\ClassSeaGuardApp\obj\Debug\ClassSeaGuardApp.csproj.GenerateResource.cache
-C:\Users\USER\SeaGuard\ClassSeaGuardApp\obj\Debug\ClassSeaGuardApp.csproj.CoreCompileInputs.cache
-C:\Users\USER\SeaGuard\ClassSeaGuardApp\obj\Debug\ClassSeaGuardApp.exe
-C:\Users\USER\SeaGuard\ClassSeaGuardApp\obj\Debug\ClassSeaGuardApp.pdb
