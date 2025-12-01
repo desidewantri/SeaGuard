@@ -1,144 +1,149 @@
-# SeaGuard
-Kelompok SeaGuard <br>
-Anggota 1: Desi D Simamora – 23/514990/TK/56564 <br>
-Anggota 2: Fanisah – 23/518614/TK/57120 <br>
-Anggota 3: Hayunitya Edadwi Pratita – 23/518670/TK/57134
 
-# SeaGuard — Marine Waste Reporting & Education Platform
-Aplikasi edukasi dan pelaporan sampah laut untuk komunitas nelayan, wisatawan, dan masyarakat pesisir.Dikembangkan sebagai solusi digital untuk meningkatkan kesadaran lingkungan serta menyediakan sistem pelaporan sampah laut yang terstruktur.
+# 🌊 SeaGuard — Marine Waste Reporting & Education Platform
 
-# Class Diagram Aplikasi SeaGuard
-Berikut adalah class diagram yang menggambarkan rancangan sistem aplikasi pelaporan sampah. Diagram ini menunjukkan relasi antar class, beserta atribut dan method yang digunakan.
- 
-<img width="533" height="451" alt="class diagramb" src="https://github.com/user-attachments/assets/b33a2442-08b3-491b-a769-369d4b6d8643" />
-<br>
-<br>
+**Kelompok SeaGuard**  
+Anggota 1: **Desi D Simamora** – 23/514990/TK/56564  
+Anggota 2: **Fanisah** – 23/518614/TK/57120  
+Anggota 3: **Hayunitya Edadwi Pratita** – 23/518670/TK/57134  
 
-# ERD Aplikasi Seaguard
-Berikut adalah ERD yang menggambarkan rancangan sistem aplikasi pelaporan sampah. 
+---
 
-<img width="811" height="571" alt="HW MODUL 4 drawio" src="https://github.com/user-attachments/assets/8d1adaf8-d79b-4adb-87bd-5a08f5148413" />
+SeaGuard adalah aplikasi edukasi dan pelaporan sampah laut untuk komunitas nelayan, wisatawan, dan masyarakat pesisir.  
+Dikembangkan sebagai solusi digital untuk meningkatkan kesadaran lingkungan serta menyediakan sistem pelaporan sampah laut yang terstruktur dan mudah digunakan.
+
+---
+
+## 📘 Class Diagram Aplikasi SeaGuard
+Diagram berikut menggambarkan rancangan struktur class dalam aplikasi, lengkap dengan relasi, atribut, dan method:
+
+<img width="533" alt="class-diagram" src="https://github.com/user-attachments/assets/b33a2442-08b3-491b-a769-369d4b6d8643" />
+
+---
+
+## 🗂️ ERD Aplikasi SeaGuard
+ERD ini menggambarkan struktur database serta relasi antar tabel yang digunakan dalam aplikasi:
+
+<img width="811" alt="erd-seaguard" src="https://github.com/user-attachments/assets/8d1adaf8-d79b-4adb-87bd-5a08f5148413" />
+
+---
 
 ## ⭐ Fitur Utama
-# 📝 1. Pelaporan Sampah Laut
 
-Input kategori sampah
+### 📝 1. Pelaporan Sampah Laut
+- Input kategori sampah  
+- Input lokasi (koordinat/area)  
+- Form pelaporan sederhana  
+- Data laporan tersimpan di database  
 
-Input lokasi (koordinat / area)
+### 🔥 2. Heatmap
+- Visualisasi lokasi laporan  
+- Analisis sebaran sampah  
+- Representasi hotspot sampah  
 
-Form pelaporan yang sederhana
+### 📚 3. Modul Edukasi
+- Informasi dampak sampah laut  
+- Konten edukasi untuk masyarakat  
+- Materi ramah pengguna  
 
-Penyimpanan ke database
+### 👤 4. Manajemen User
+- Login & Registrasi  
+- Profil user  
+- Riwayat laporan  
 
-# 🔥 2. Heatmap
+### 📋 5. Daftar & Detail Laporan
+- List laporan user  
+- Detail laporan lengkap  
+- Status laporan  
 
-Visualisasi titik-titik laporan
-
-Analisis sederhana dari data laporan
-
-# 📚 3. Modul Edukasi
-
-Informasi mengenai bahaya sampah laut
-
-Konten edukasi bagi nelayan & wisatawan
-
-# 👤 4. Manajemen User
-
-Login & Registrasi
-
-Profil User
-
-# 📋 5. Daftar & Detail Laporan
-
-List laporan yang pernah dibuat
-
-Menu detail laporan dan status pelaporan
+---
 
 ## 🧱 Arsitektur & Teknologi
-# Frontend & Aplikasi Desktop
 
-- C#
+### 🔹 Frontend / Aplikasi Desktop
+- C#  
+- .NET Framework  
+- Windows Forms  
 
--.NET Framework
+### 🔹 Backend & Database
+- PostgreSQL (utama)  
+- SQL Server (opsional)  
+- Npgsql — library koneksi database  
 
-- Windows Forms
+### 🔹 Tools Pengembangan
+- Visual Studio  
+- Git & GitHub  
 
-# Backend & Database
+---
 
-- PostgreSQL / SQL Server (opsional)
+## ⚙️ Cara Instalasi
 
-- Npgsql (library koneksi database)
-
-- Tools
-
-- Visual Studio
-- 
-## Cara Instalasi
-# 1. Clone Repository
+### 1️⃣ Clone Repository
+```bash
 git clone https://github.com/<user>/<repo>.git
+````
 
-# 2. Install Dependencies
+### 2️⃣ Install Dependencies
 
-Pastikan sudah menginstal:
+Pastikan sudah terinstal:
 
-Visual Studio 2019/2022
+* Visual Studio 2019 / 2022
+* Workload: **.NET Desktop Development**
+* PostgreSQL (bila menggunakan database asli)
 
-.NET Desktop Development
-
-PostgreSQL (jika memakai database asli)
+---
 
 ## ▶️ Cara Menjalankan Aplikasi
 
-- Buka Visual Studio
+1. Buka Visual Studio
+2. Pilih **File → Open → Project/Solution**
+3. Arahkan ke:
 
-Pilih:
-File → Open → Project/Solution
+   ```
+   SeaGuard-Database.sln
+   ```
+4. Klik kanan project → **Set as Startup Project**
+5. Tekan **F5 / Start**
 
-- Arahkan ke:
+Aplikasi akan berjalan dalam mode Windows Forms.
 
-SeaGuard-Database.sln
-
-- Set sebagai Startup Project
-
-- Tekan F5 / Start
+---
 
 ## 🧪 Testing
 
-- Navigasi antar halaman
+Pengujian mencakup:
 
-- Semua tombol dapat diklik dan berfungsi
+* Navigasi antar halaman
+* Semua tombol dapat diklik dan berfungsi
+* Input form laporan berjalan normal
+* Data tersimpan ke database
+* Menggunakan dummy data untuk simulasi
 
-- Input form laporan bekerja
-
-- Data tersimpan ke database
-
-- Dummy data digunakan untuk simulasi
+---
 
 ## 👥 Pembagian Peran Tim
-# Desi D Simamora
 
-- UI/UX & Visual Presentation
+### 👩‍🎨 Desi D Simamora — UI/UX & Visual Presentation
 
-- Mendesain layout aplikasi
+* Mendesain layout UI
+* Menentukan gaya visual & aset
+* Menyusun materi pendukung visual
 
-- Menentukan tampilan & aset visual
+### 👩‍💻 Fanisah — Application Logic & Navigation
 
-# Fanisah
+* Mengembangkan alur navigasi aplikasi
+* Mengimplementasikan event handler
+* Menjamin flow aplikasi berjalan stabil
 
-- Application Logic & Navigation
+### 🛢️ Hayunitya Edadwi Pratita — Database Management
 
-- Mengimplementasikan alur navigasi
+* Menyusun struktur database
+* Membuat tabel dan relasi
+* Menghubungkan form dengan database
 
-- Mengaktifkan fungsi tombol & event handler
+---
 
-# Hayunitya Edadwi Pratita
+## 📜 Lisensi
 
-- Database Management
+Repositori ini dibuat untuk keperluan tugas akademik.
+Penggunaan di luar tujuan akademik tidak disarankan.
 
-- Penyusunan tabel & struktur DB
-
-- Penghubungan form ke database
-
-📜 Lisensi
-
-Repositori ini dibuat untuk keperluan tugas akademik — penggunaan di luar tujuan akademik tidak disarankan.
