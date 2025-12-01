@@ -79,7 +79,7 @@ ERD ini menggambarkan struktur database serta relasi antar tabel yang digunakan 
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/<user>/<repo>.git
+git clone https://github.com/desidewantri/SeaGuard.git
 ````
 
 ### 2️⃣ Install Dependencies
