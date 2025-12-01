@@ -1,0 +1,86 @@
+D:\KULIAH\SEMESTER 5\Junior Project\SeaGuard-Database\bin\Debug\net8.0-windows\SeaGuard-Database.exe
+D:\KULIAH\SEMESTER 5\Junior Project\SeaGuard-Database\bin\Debug\net8.0-windows\SeaGuard-Database.deps.json
+D:\KULIAH\SEMESTER 5\Junior Project\SeaGuard-Database\bin\Debug\net8.0-windows\SeaGuard-Database.runtimeconfig.json
+D:\KULIAH\SEMESTER 5\Junior Project\SeaGuard-Database\bin\Debug\net8.0-windows\SeaGuard-Database.dll
+D:\KULIAH\SEMESTER 5\Junior Project\SeaGuard-Database\bin\Debug\net8.0-windows\SeaGuard-Database.pdb
+D:\KULIAH\SEMESTER 5\Junior Project\SeaGuard-Database\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\KULIAH\SEMESTER 5\Junior Project\SeaGuard-Database\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\KULIAH\SEMESTER 5\Junior Project\SeaGuard-Database\bin\Debug\net8.0-windows\Npgsql.dll
+D:\KULIAH\SEMESTER 5\Junior Project\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard-Database.csproj.AssemblyReference.cache
+D:\KULIAH\SEMESTER 5\Junior Project\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard_Database.Forms.CreateReport.resources
+D:\KULIAH\SEMESTER 5\Junior Project\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard_Database.Forms.Home.resources
+D:\KULIAH\SEMESTER 5\Junior Project\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard_Database.Forms.ReportDetail.resources
+D:\KULIAH\SEMESTER 5\Junior Project\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard_Database.Forms.ReportsList.resources
+D:\KULIAH\SEMESTER 5\Junior Project\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard_Database.Properties.Resources.resources
+D:\KULIAH\SEMESTER 5\Junior Project\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard-Database.csproj.GenerateResource.cache
+D:\KULIAH\SEMESTER 5\Junior Project\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard-Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\KULIAH\SEMESTER 5\Junior Project\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard-Database.AssemblyInfoInputs.cache
+D:\KULIAH\SEMESTER 5\Junior Project\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard-Database.AssemblyInfo.cs
+D:\KULIAH\SEMESTER 5\Junior Project\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard-Database.csproj.CoreCompileInputs.cache
+D:\KULIAH\SEMESTER 5\Junior Project\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard.A256CF07.Up2Date
+D:\KULIAH\SEMESTER 5\Junior Project\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard-Database.dll
+D:\KULIAH\SEMESTER 5\Junior Project\SeaGuard-Database\obj\Debug\net8.0-windows\refint\SeaGuard-Database.dll
+D:\KULIAH\SEMESTER 5\Junior Project\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard-Database.pdb
+D:\KULIAH\SEMESTER 5\Junior Project\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard-Database.genruntimeconfig.cache
+D:\KULIAH\SEMESTER 5\Junior Project\SeaGuard-Database\obj\Debug\net8.0-windows\ref\SeaGuard-Database.dll
+C:\Users\ASUS\Downloads\SeaGuard-main\SeaGuard-main\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard-Database.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\SeaGuard-main\SeaGuard-main\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard_Database.education.resources
+C:\Users\ASUS\Downloads\SeaGuard-main\SeaGuard-main\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard_Database.Forms.CreateReport.resources
+C:\Users\ASUS\Downloads\SeaGuard-main\SeaGuard-main\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard_Database.Forms.Home.resources
+C:\Users\ASUS\Downloads\SeaGuard-main\SeaGuard-main\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard_Database.Forms.ReportDetail.resources
+C:\Users\ASUS\Downloads\SeaGuard-main\SeaGuard-main\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard_Database.Forms.ReportsList.resources
+C:\Users\ASUS\Downloads\SeaGuard-main\SeaGuard-main\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard_Database.heatmap.resources
+C:\Users\ASUS\Downloads\SeaGuard-main\SeaGuard-main\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard_Database.btnLogin.resources
+C:\Users\ASUS\Downloads\SeaGuard-main\SeaGuard-main\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard_Database.profile.resources
+C:\Users\ASUS\Downloads\SeaGuard-main\SeaGuard-main\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard_Database.Properties.Resources.resources
+C:\Users\ASUS\Downloads\SeaGuard-main\SeaGuard-main\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard_Database.Registrasiakun.resources
+C:\Users\ASUS\Downloads\SeaGuard-main\SeaGuard-main\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard-Database.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\SeaGuard-main\SeaGuard-main\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard-Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\SeaGuard-main\SeaGuard-main\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard-Database.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\SeaGuard-main\SeaGuard-main\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard-Database.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\SeaGuard-main\SeaGuard-main\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard-Database.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\SeaGuard-main\SeaGuard-main\SeaGuard-Database\bin\Debug\net8.0-windows\SeaGuard-Database.exe
+C:\Users\ASUS\Downloads\SeaGuard-main\SeaGuard-main\SeaGuard-Database\bin\Debug\net8.0-windows\SeaGuard-Database.deps.json
+C:\Users\ASUS\Downloads\SeaGuard-main\SeaGuard-main\SeaGuard-Database\bin\Debug\net8.0-windows\SeaGuard-Database.runtimeconfig.json
+C:\Users\ASUS\Downloads\SeaGuard-main\SeaGuard-main\SeaGuard-Database\bin\Debug\net8.0-windows\SeaGuard-Database.dll
+C:\Users\ASUS\Downloads\SeaGuard-main\SeaGuard-main\SeaGuard-Database\bin\Debug\net8.0-windows\SeaGuard-Database.pdb
+C:\Users\ASUS\Downloads\SeaGuard-main\SeaGuard-main\SeaGuard-Database\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Downloads\SeaGuard-main\SeaGuard-main\SeaGuard-Database\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Downloads\SeaGuard-main\SeaGuard-main\SeaGuard-Database\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\ASUS\Downloads\SeaGuard-main\SeaGuard-main\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard.A256CF07.Up2Date
+C:\Users\ASUS\Downloads\SeaGuard-main\SeaGuard-main\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard-Database.dll
+C:\Users\ASUS\Downloads\SeaGuard-main\SeaGuard-main\SeaGuard-Database\obj\Debug\net8.0-windows\refint\SeaGuard-Database.dll
+C:\Users\ASUS\Downloads\SeaGuard-main\SeaGuard-main\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard-Database.pdb
+C:\Users\ASUS\Downloads\SeaGuard-main\SeaGuard-main\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard-Database.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\SeaGuard-main\SeaGuard-main\SeaGuard-Database\obj\Debug\net8.0-windows\ref\SeaGuard-Database.dll
+D:\KULIAH\SEMESTER 5\Junior Project\junpro\SeaGuard-main-coded\SeaGuard-Database\bin\Debug\net8.0-windows\SeaGuard-Database.exe
+D:\KULIAH\SEMESTER 5\Junior Project\junpro\SeaGuard-main-coded\SeaGuard-Database\bin\Debug\net8.0-windows\SeaGuard-Database.deps.json
+D:\KULIAH\SEMESTER 5\Junior Project\junpro\SeaGuard-main-coded\SeaGuard-Database\bin\Debug\net8.0-windows\SeaGuard-Database.runtimeconfig.json
+D:\KULIAH\SEMESTER 5\Junior Project\junpro\SeaGuard-main-coded\SeaGuard-Database\bin\Debug\net8.0-windows\SeaGuard-Database.dll
+D:\KULIAH\SEMESTER 5\Junior Project\junpro\SeaGuard-main-coded\SeaGuard-Database\bin\Debug\net8.0-windows\SeaGuard-Database.pdb
+D:\KULIAH\SEMESTER 5\Junior Project\junpro\SeaGuard-main-coded\SeaGuard-Database\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\KULIAH\SEMESTER 5\Junior Project\junpro\SeaGuard-main-coded\SeaGuard-Database\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\KULIAH\SEMESTER 5\Junior Project\junpro\SeaGuard-main-coded\SeaGuard-Database\bin\Debug\net8.0-windows\Npgsql.dll
+D:\KULIAH\SEMESTER 5\Junior Project\junpro\SeaGuard-main-coded\SeaGuard-Database\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\KULIAH\SEMESTER 5\Junior Project\junpro\SeaGuard-main-coded\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard-Database.csproj.AssemblyReference.cache
+D:\KULIAH\SEMESTER 5\Junior Project\junpro\SeaGuard-main-coded\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard_Database.Forms.CreateReport.resources
+D:\KULIAH\SEMESTER 5\Junior Project\junpro\SeaGuard-main-coded\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard_Database.Forms.Education.resources
+D:\KULIAH\SEMESTER 5\Junior Project\junpro\SeaGuard-main-coded\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard_Database.Forms.Heatmap.resources
+D:\KULIAH\SEMESTER 5\Junior Project\junpro\SeaGuard-main-coded\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard_Database.Forms.Home.resources
+D:\KULIAH\SEMESTER 5\Junior Project\junpro\SeaGuard-main-coded\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard_Database.Forms.Login.resources
+D:\KULIAH\SEMESTER 5\Junior Project\junpro\SeaGuard-main-coded\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard_Database.Forms.Profile.resources
+D:\KULIAH\SEMESTER 5\Junior Project\junpro\SeaGuard-main-coded\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard_Database.Forms.Registration.resources
+D:\KULIAH\SEMESTER 5\Junior Project\junpro\SeaGuard-main-coded\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard_Database.Forms.ReportDetail.resources
+D:\KULIAH\SEMESTER 5\Junior Project\junpro\SeaGuard-main-coded\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard_Database.Forms.ReportsList.resources
+D:\KULIAH\SEMESTER 5\Junior Project\junpro\SeaGuard-main-coded\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard_Database.Properties.Resources.resources
+D:\KULIAH\SEMESTER 5\Junior Project\junpro\SeaGuard-main-coded\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard-Database.csproj.GenerateResource.cache
+D:\KULIAH\SEMESTER 5\Junior Project\junpro\SeaGuard-main-coded\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard-Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\KULIAH\SEMESTER 5\Junior Project\junpro\SeaGuard-main-coded\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard-Database.AssemblyInfoInputs.cache
+D:\KULIAH\SEMESTER 5\Junior Project\junpro\SeaGuard-main-coded\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard-Database.AssemblyInfo.cs
+D:\KULIAH\SEMESTER 5\Junior Project\junpro\SeaGuard-main-coded\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard-Database.csproj.CoreCompileInputs.cache
+D:\KULIAH\SEMESTER 5\Junior Project\junpro\SeaGuard-main-coded\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard.A256CF07.Up2Date
+D:\KULIAH\SEMESTER 5\Junior Project\junpro\SeaGuard-main-coded\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard-Database.dll
+D:\KULIAH\SEMESTER 5\Junior Project\junpro\SeaGuard-main-coded\SeaGuard-Database\obj\Debug\net8.0-windows\refint\SeaGuard-Database.dll
+D:\KULIAH\SEMESTER 5\Junior Project\junpro\SeaGuard-main-coded\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard-Database.pdb
+D:\KULIAH\SEMESTER 5\Junior Project\junpro\SeaGuard-main-coded\SeaGuard-Database\obj\Debug\net8.0-windows\SeaGuard-Database.genruntimeconfig.cache
+D:\KULIAH\SEMESTER 5\Junior Project\junpro\SeaGuard-main-coded\SeaGuard-Database\obj\Debug\net8.0-windows\ref\SeaGuard-Database.dll
