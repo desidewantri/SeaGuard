@@ -1,5 +1,6 @@
-# SeaGuard
-Aplikasi Edukasi dan Pelaporan Sampah Laut untuk Komunitas Nelayan dan Wisatawan 
+# SeaGuard — Marine Waste Reporting & Education Platform
+Aplikasi edukasi dan pelaporan sampah laut untuk komunitas nelayan, wisatawan, dan masyarakat pesisir.
+Dikembangkan sebagai solusi digital untuk meningkatkan kesadaran lingkungan serta menyediakan sistem pelaporan sampah laut yang terstruktur.
 
 Kelompok SeaGuard <br>
 Anggota 1: Desi D Simamora – 23/514990/TK/56564 <br>
