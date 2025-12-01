@@ -10,6 +10,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Resources\Modul_Sampah_Plastik.pdf" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Resources\Modul_Sampah_Plastik.pdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Npgsql" Version="10.0.0" />
   </ItemGroup>
 

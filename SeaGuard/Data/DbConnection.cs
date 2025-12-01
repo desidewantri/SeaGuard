@@ -10,7 +10,8 @@ namespace SeaGuard_Database.Data
     internal class DbConnection
     {
         private const string ConnString =
-            "Host=localhost;Port=5432;Username=postgres;Password=informatika;Database=SeaGuard";
+            // MAsukkan koneksi yang sesuai dengan database yang digunakan
+            "";
 
         public static NpgsqlConnection GetConnection()
         {
