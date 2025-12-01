@@ -23,7 +23,6 @@ namespace SeaGuard_Database.Forms
         {
             InitializeComponent();
 
-            // Pastikan DropdownCategory, PictureMap, PicturePhoto, TextLatitude, dan TextLongitude ada
             DropdownCategory.Items.AddRange(new object[]
             {
                 "Oil Spill", "Plastic", "Fishing Net", "Chemical", "Other"
@@ -41,7 +40,6 @@ namespace SeaGuard_Database.Forms
 
         private void DropdownCategory_SelectedIndexChanged(object sender, EventArgs e) { } 
 
-        // --- Tombol Pilih Foto ---
         private void btnPhoto_Click(object sender, EventArgs e)
         {
             using var ofd = new OpenFileDialog
@@ -65,7 +63,6 @@ namespace SeaGuard_Database.Forms
         private void TextLongitude_TextChanged(object sender, EventArgs e) { }
         private void TextNotes_TextChanged(object sender, EventArgs e) { }
 
-        // --- Tombol Submit ---
         private void btnSubmit_Click(object sender, EventArgs e)
         {
             if (!ValidateInputs()) return;
@@ -84,7 +81,7 @@ namespace SeaGuard_Database.Forms
                 );
 
                 MessageBox.Show("Report tersimpan");
-                Navigator.Go(this, new Forms.ReportsList()); // Pindah ke Report List
+                Navigator.Go(this, new Forms.ReportsList()); 
             }
             catch (Exception ex)
             {
@@ -92,7 +89,6 @@ namespace SeaGuard_Database.Forms
             }
         }
 
-        // --- Tombol Kembali ke Home ---
         private void btnBack_Click(object sender, EventArgs e)
         {
             Navigator.Go(this, new Forms.Home());
@@ -100,7 +96,6 @@ namespace SeaGuard_Database.Forms
 
         private void PictureMap_Click(object sender, EventArgs e) { }
 
-        // --- HELPER METHOD: Validasi Input (Memperbaiki error CS0103) ---
         private bool ValidateInputs()
         {
             if (string.IsNullOrWhiteSpace(DropdownCategory.Text))
@@ -129,7 +124,6 @@ namespace SeaGuard_Database.Forms
             return true;
         }
 
-        // --- HELPER METHOD: Hanya Angka dan Koma (Memperbaiki error CS0103) ---
         private void OnlyNumberComma(object? sender, KeyPressEventArgs e)
         {
             var tb = sender as TextBox;
@@ -151,7 +145,6 @@ namespace SeaGuard_Database.Forms
             PicturePhoto.Image = null;
         }
 
-        // --- HELPER METHOD: Simpan Foto ke Direktori Aplikasi (Memperbaiki error CS0103) ---
         private static string? SavePhotoToApp(string? sourceFullPath)
         {
             if (string.IsNullOrWhiteSpace(sourceFullPath) || !File.Exists(sourceFullPath))
