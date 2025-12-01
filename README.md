@@ -23,7 +23,8 @@ Diagram berikut menggambarkan rancangan struktur class dalam aplikasi, lengkap d
 ## 🗂️ ERD Aplikasi SeaGuard
 ERD ini menggambarkan struktur database serta relasi antar tabel yang digunakan dalam aplikasi:
 
-<img width="811" alt="erd-seaguard" src="https://github.com/user-attachments/assets/8d1adaf8-d79b-4adb-87bd-5a08f5148413" />
+![erd](https://github.com/user-attachments/assets/1a8eb23c-e4b0-4ba2-9031-ea06cb3388fc) 
+
 
 ---
 
