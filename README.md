@@ -123,10 +123,15 @@ Pengujian mencakup:
 <img width="803" height="666" alt="regis" src="https://github.com/user-attachments/assets/f431c87d-44b3-4be9-9c93-54272338c39b" />
 
 
-<img width="802" height="580" alt="createreport" src="https://github.com/user-attachments/assets/0b498db7-79df-437c-a2fc-016caed0c86d" />
+<img width="395" height="262" alt="report list" src="https://github.com/user-attachments/assets/0e7cb908-6c79-4af8-89b2-c8762d0f1fec" />
 
 
-<img width="800" height="588" alt="heatmap" src="https://github.com/user-attachments/assets/111d77ee-ca82-4edd-99eb-ff3a4fc8c111" />
+
+
+
+
+
+<img width="397" height="262" alt="createreport png2" src="https://github.com/user-attachments/assets/72ba82da-df9a-4c09-b399-ce2cae87ef00" />
 
 
 
