@@ -119,6 +119,16 @@ Pengujian mencakup:
 * Menggunakan dummy data untuk simulasi
 
 ---
+## Dokumentasi Beberapa design antarmuka dari SeaGuard :
+<img width="803" height="666" alt="regis" src="https://github.com/user-attachments/assets/f431c87d-44b3-4be9-9c93-54272338c39b" />
+
+
+<img width="802" height="580" alt="createreport" src="https://github.com/user-attachments/assets/0b498db7-79df-437c-a2fc-016caed0c86d" />
+
+
+<img width="800" height="588" alt="heatmap" src="https://github.com/user-attachments/assets/111d77ee-ca82-4edd-99eb-ff3a4fc8c111" />
+
+
 
 ## 👥 Pembagian Peran Tim
 
