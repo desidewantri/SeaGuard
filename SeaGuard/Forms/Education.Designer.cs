@@ -202,6 +202,7 @@
             button1.TabIndex = 1;
             button1.Text = "Mulai Belajar";
             button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click;
             // 
             // label2
             // 
@@ -262,6 +263,7 @@
             button2.TabIndex = 1;
             button2.Text = "Mulai Belajar";
             button2.UseVisualStyleBackColor = false;
+            button2.Click += button2_Click;
             // 
             // label4
             // 

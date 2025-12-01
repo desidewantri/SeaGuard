@@ -28,5 +28,8 @@
     <Compile Update="Forms\ReportDetail.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Forms\Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

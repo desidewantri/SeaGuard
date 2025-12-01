@@ -23,7 +23,7 @@ namespace SeaGuard_Database
                 return;
             }
 
-            Application.Run(new Forms.Login());
+            Application.Run(new Forms.Splash());
         }
     }
 }

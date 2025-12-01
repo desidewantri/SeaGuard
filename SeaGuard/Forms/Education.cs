@@ -31,5 +31,15 @@ namespace SeaGuard_Database.Forms
         {
             Navigator.Go(this, new Home());
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
